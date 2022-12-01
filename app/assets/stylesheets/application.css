@@ -13,3 +13,43 @@
  *= require_tree .
  *= require_self
  */
+
+.icon {
+  font-size: 6rem;
+  width: 100px;
+  text-align: center;
+  border: none;
+  background: #f8f8ff;
+}
+
+.home {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  min-height: 100vh;
+  justify-content: center;
+}
+
+ul {
+  list-style: none;
+}
+
+.listbtn {
+  margin: 10px 0 10px 10px;
+  width: 30%;
+}
+
+.containmains {
+  margin-left: 20px;
+}
+
+.title {
+  margin-left: 20px;
+}
+
+a {
+  font-size: 30px;
+}
+a:hover {
+  text-decoration: none;
+}
