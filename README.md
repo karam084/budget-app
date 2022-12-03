@@ -1,8 +1,8 @@
 <a name="budget-app"></a>
 
- # Demo
+ # Live Demo
 
- [link](https://lit-brook-15225.herokuapp.com/)
+ [link](https://budget-app-ohsx.onrender.com)
 
  <img width="374" alt="erd_diagram" src="https://user-images.githubusercontent.com/77942746/205452185-a82d403e-a4c8-43fe-81c8-cd55b4338ad1.png">
 
@@ -224,8 +224,8 @@ Feel free to check the [issues page](https://github.com/karam084/budget-app/issu
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-# Demo video
-[loom video](https://www.loom.com/share/4d3d208a3717479f9db0696084c11653)
+# Video Demo
+[loom video](https://www.loom.com/share/91412cdddc434ea99842e53da62a70a3)
 
 <!-- LICENSE -->
 
