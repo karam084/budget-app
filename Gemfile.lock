@@ -98,7 +98,6 @@ GEM
     diff-lcs (1.5.0)
     erubi (1.11.0)
     ffi (1.15.5)
-    foreman (0.87.2)
     globalid (1.0.0)
       activesupport (>= 5.0)
     i18n (1.12.0)
@@ -170,11 +169,6 @@ GEM
       nokogiri (>= 1.6)
     rails-html-sanitizer (1.4.3)
       loofah (~> 2.3)
-    rails_12factor (0.0.3)
-      rails_serve_static_assets
-      rails_stdout_logging
-    rails_serve_static_assets (0.0.5)
-    rails_stdout_logging (0.0.5)
     railties (7.0.4)
       actionpack (= 7.0.4)
       activesupport (= 7.0.4)
@@ -261,7 +255,6 @@ DEPENDENCIES
   debug
   devise
   ffi
-  foreman
   importmap-rails
   jbuilder
   letter_opener
@@ -269,7 +262,6 @@ DEPENDENCIES
   puma (~> 5.0)
   rails (~> 7.0.4)
   rails-controller-testing
-  rails_12factor
   rspec-rails
   selenium-webdriver
   sprockets-rails
