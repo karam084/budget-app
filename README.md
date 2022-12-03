@@ -4,6 +4,19 @@
 
  [link](https://lit-brook-15225.herokuapp.com/)
 
+ <img width="374" alt="erd_diagram" src="https://user-images.githubusercontent.com/77942746/205452185-a82d403e-a4c8-43fe-81c8-cd55b4338ad1.png">
+
+![Screenshot from 2022-12-03 18-48-56](https://user-images.githubusercontent.com/77942746/205452289-2fc545ed-4536-410f-aed8-57eef2e015f8.png)
+
+![Screenshot from 2022-12-03 18-49-15](https://user-images.githubusercontent.com/77942746/205452299-d5be3548-1b78-4e1c-9327-44672ad4c67b.png)
+
+![Screenshot from 2022-12-03 18-49-49](https://user-images.githubusercontent.com/77942746/205452311-9439e237-d1f6-40c6-8392-53f5a4677494.png)
+
+![Screenshot from 2022-12-03 18-50-09](https://user-images.githubusercontent.com/77942746/205452328-1c989db1-8a4c-4ac3-b158-2c7972d50b05.png)
+
+![Screenshot from 2022-12-03 18-50-37](https://user-images.githubusercontent.com/77942746/205452343-39e9d1a1-b9bb-4695-b4f0-514ffd815380.png)
+
+
 REQUIRED SECTIONS:
 - Table of Contents
 - About the Project
