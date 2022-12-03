@@ -53,9 +53,6 @@ gem 'cancancan'
 
 gem 'letter_opener'
 
-gem 'rails_12factor'
-
-gem 'foreman'
 
 # Use Active Storage variants [https://guides.rubyonrails.org/active_storage_overview.html#transforming-images]
 # gem "image_processing", "~> 1.2"
