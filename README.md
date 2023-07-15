@@ -68,7 +68,7 @@ REQUIRED SECTIONS:
 
 # 📖 Recipe App <a name="about-project"></a>
 
-> The Ruby on Rails capstone project (remember what they are?) is about building a mobile web application where you can manage your budget: you have a list of transactions associated with a category, so that you can see how much money you spent and on what.
+> The Ruby on Rails capstone project (remember what they are?) is about building a mobile web application where you can manage your budget: you have a list of transactions associated with a category so that you can see how much money you spent and on what.
 
 **Recipe App** is a...
 
@@ -141,7 +141,7 @@ REQUIRED SECTIONS:
 ### Install
 
  - bundle install
- - rails db:migrate
+ - rails db: migrate
 
 ### Usage
 
@@ -155,13 +155,13 @@ To run the project, execute the following command:
 Run the following command to install all dependencies.
 
 $ bundle install
-$ code .
+$ code.
 
 ## Database
 To create your local Database
 
-$ rails db:create
-$ rails db:migrate
+$ rails db: create
+$ rails db: migrate
 
 ### Run tests
 To install rspec, in the terminal kindly run this command
