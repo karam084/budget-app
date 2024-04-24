@@ -8,6 +8,4 @@ class ApplicationRecord < ActiveRecord::Base
       all
     end
   end
-  
-  
 end

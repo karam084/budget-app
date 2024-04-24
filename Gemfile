@@ -79,7 +79,7 @@ group :test do
   gem 'webdrivers'
 end
 
-group :development, :test do
-  gem 'ffi'
-  gem 'rspec-rails'
-end
+# group :development, :test do
+#   gem 'ffi'
+#   gem 'rspec-rails'
+# end
