@@ -72,7 +72,7 @@ REQUIRED SECTIONS:
 
 **Recipe App** is a...
 
-## 🛠 Built With <a name="built-with">Ruby on Rails</a>
+## 🛠 Built With <a name="built-with">Ruby on Rails and PostgreSQL</a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
