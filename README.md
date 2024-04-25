@@ -2,7 +2,7 @@
 
  # Live Demo
 
- [link](https://budget-app-ohsx.onrender.com)
+ [link](https://budget-app-rails-z4b3.onrender.com)
 
  <img width="374" alt="erd_diagram" src="https://user-images.githubusercontent.com/77942746/205452185-a82d403e-a4c8-43fe-81c8-cd55b4338ad1.png">
 
